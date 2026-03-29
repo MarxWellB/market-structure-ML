@@ -8,15 +8,7 @@ The core idea was to explore whether a neural network could learn market structu
 
 ---
 
-## Model Architecture Visualization
-
-The model architecture was visualized using Keras to validate layer structure and dimensional flow.
-
-* Input: 6 features
-* Hidden Layers: Dense (32 → 16) with ReLU
-* Output: Sigmoid (binary classification)
-
-This visualization supports the interpretability of the model and confirms structural consistency between training and inference.
+## Visualization
 
 ![Model Architecture](./screenshot/result.png)
 
