@@ -18,7 +18,7 @@ The model architecture was visualized using Keras to validate layer structure an
 
 This visualization supports the interpretability of the model and confirms structural consistency between training and inference.
 
-![Model Architecture](./screenshots/model.png)
+![Model Architecture](./screenshot/result.png)
 
 ---
 ## Core Hypothesis
